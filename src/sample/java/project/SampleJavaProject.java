@@ -13,6 +13,7 @@ import lombok.Setter;
  * The main class of the application. It contains the main() method,
  * the first method called.
  */
+// Updating the file for #284fm6t
 @NoArgsConstructor
 @AllArgsConstructor
 public class SampleJavaProject implements Runnable {
